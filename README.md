@@ -1,4 +1,4 @@
-- 👋 Hi, I am Kehinde Ajasa (Tech With Ken) a Python Programmer and Aspiring Data Scientist from Lagos, Nigeria.
+- 👋 Hi, I am Kehinde Ajasa (Tech With Ken) a Python Programmer and Data Scientist from Lagos, Nigeria.
 - Passionate about Data Science and Machine Learning
 - Versatile with other languages like VB.Net and Javascript
 - Twitter ---> [Tech_With_Ken](https://t.co/AVhTcllalD)
