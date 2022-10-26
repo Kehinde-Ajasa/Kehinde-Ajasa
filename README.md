@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @Kehinde-Ajasa a junior python programmer and a 16-year old tech enthusiast from Lagos Nigeria
-- i am currently learning artificial intelligence and Machine Learning
-- i hope to become a sotware engineer and product designer in the future
-- i hope to build projects cooperatively with other innovators like me
-- you can reach out to me through the following handles
-- facebook = Kehinde Ajasa
-- instagram = kehinde_ajasa_ii
-- twitter = kehinde_ajasa
-- 09091340015
+- 👋 Hi, I am Kehinde Ajasa (Tech With Ken) a Python Programmer and Aspiring Data Scientist from Lagos, Nigeria.
+- Passionate about Data Science and Machine Learning
+- Versatile with other languages like VB.Net and Javascript
+- Twitter ---> [https://t.co/AVhTcllalD](Tech_With_Ken)
+- Facebook ---> [https://web.facebook.com/emmanuel.kedura/](Tech_With_Ken)
+- Medium ---> [https://medium.com/@ti664469](Tech_With_Ken)
+- Mobile Number ---> +234 9091340015
 - ti664469@gmail.com
-- let's create and recreate.
