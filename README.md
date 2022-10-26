@@ -2,7 +2,7 @@
 - Passionate about Data Science and Machine Learning
 - Versatile with other languages like VB.Net and Javascript
 - Twitter ---> [Tech_With_Ken](https://t.co/AVhTcllalD)
-- Facebook ---> [Tech_With_Ken](https://web.facebook.com/emmanuel.kedura/)
+- Facebook ---> [Tech_With_Ken](https://web.facebook.com/profile.php?id=100064850177237)
 - Medium ---> [Tech_With_Ken](https://medium.com/@ti664469)
 - Mobile Number ---> +234 9091340015
 - ti664469@gmail.com
